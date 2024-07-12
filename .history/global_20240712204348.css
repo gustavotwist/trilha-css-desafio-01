@@ -1,0 +1,29 @@
+.banner {
+    background:url('/assets/images/banner.png'), no-repeat, linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
+    color:white;
+}
+
+h1, h2 {
+    color:#2189c7;
+    text-transform:uppercase;
+}
+
+.banner-content {
+    text-align:center;
+    padding:30px;
+    margin:0px;
+    text-align
+}
+
+.logo img{
+    width:180px;
+}
+
+button {
+   background-color:transparent;
+   color:#2189c7;
+   border:solid #2189c7;
+   padding:1em;
+   width:22em;
+   text-transform:uppercase;
+}

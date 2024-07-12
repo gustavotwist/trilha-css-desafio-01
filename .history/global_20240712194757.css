@@ -1,0 +1,8 @@
+.banner {
+    background:url('/assets/images/banner.png'), repeating-linear-gradient(to top, blue, black, to bottom,);
+    color:white;
+}
+
+h1, h2 {
+    color:blue;
+}

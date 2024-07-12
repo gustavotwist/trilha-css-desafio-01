@@ -1,0 +1,8 @@
+.banner {
+    background:url('/assets/images/banner.png'), no-repeat, linear-gradient(to bottom, black, black 4%, blue 20%, blue 8%);
+    color:white;
+}
+
+h1, h2 {
+    color:blue;
+}

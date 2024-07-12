@@ -1,0 +1,14 @@
+.banner {
+    background:url('/assets/images/banner.png'), no-repeat, linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
+    color:white;
+    text-align:center;
+}
+
+h1, h2 {
+    color:blue;
+    text-transform:uppercase;
+}
+
+.banner-content {
+    text-align:justify;
+}
