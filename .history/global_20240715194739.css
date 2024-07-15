@@ -58,5 +58,5 @@ section, p{
     margin-top:40px 20px;
     padding:250px 280px;
     background:url('/assets/images/woman-code.png'), no-repeat;
-    object-fit:scale-down;
+    object-fit:scale-d;
 }    

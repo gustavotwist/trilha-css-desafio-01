@@ -45,7 +45,7 @@ section, p{
 .modules-list {
     white-space:pre-wrap; 
     margin:-28px -50px;
-    padding:-20px -20px;
+    padding:-50px -40px;
 }
 
 .module {
@@ -54,9 +54,4 @@ section, p{
     border-radius:50px;
 }
 
-#transform-world {
-    margin-top:40px 20px;
-    padding:250px 280px;
-    background:url('/assets/images/woman-code.png'), no-repeat;
-    object-fit:scale-down;
-}    
+#
