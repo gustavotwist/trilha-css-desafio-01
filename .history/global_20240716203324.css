@@ -9,7 +9,7 @@ body {
 }
 
 .banner {
-    background:url('./assets/images/banner.png'), no-repeat, linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
+    background:url('assets/images/banner.png'), no-repeat, linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
     background-size: cover;
     height: 600px;
     padding-top: 60px;
@@ -115,7 +115,7 @@ p {
     padding:200px;
     height:560px;
     background-size: cover;
-    background-image: url('./assets/images/woman-code.png');
+    background-image: url('.assets/images/woman-code.png');
     background-attachment: fixed;
     border-top: 1px solid #2189c780;
     border-bottom: 1px solid #2189c780;
