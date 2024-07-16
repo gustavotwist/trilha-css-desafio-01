@@ -115,7 +115,7 @@ p {
     padding:200px;
     height:560px;
     background-size: cover;
-    background-image: url('assets/images/woman-code.png');
+    background-image: url('/assets/images/woman-code.png');
     background-attachment: fixed;
     border-top: 1px solid #2189c780;
     border-bottom: 1px solid #2189c780;
