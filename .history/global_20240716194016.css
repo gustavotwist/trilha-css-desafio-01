@@ -1,9 +1,3 @@
-* {
-    font-family: 'Raleway', sans-serif;
-    box-sizing: border-box;
-    margin: 0;
-}
-
 body {
     background-color:#000000;
 }
@@ -38,7 +32,7 @@ h2 {
 .banner .banner-content {
     text-align:center;
     color: white;
-    width: 600px;
+    width: 500px;
     margin: auto;
 }    
 
@@ -113,44 +107,22 @@ p {
 
 #transform-world {
     padding:200px;
-    height:560px;
-    background-size: cover;
-    background-image: url('/assets/images/woman-code.png');
-    background-attachment: fixed;
-    border-top: 1px solid #2189c780;
-    border-bottom: 1px solid #2189c780;
+    he
+    background:url('/assets/images/woman-code.png'), no-repeat;
+    object-fit:scale-down;
 }    
 
-#transform-world p {
-    font-weight: 900;
-    font-size: 2.5rem;
-    text-transform: lowercase;
-    max-width: 250px;
-    text-shadow: 3px 2px #2189c7;
-  }
-
 #professional-challenges {
-    text-align: center;
-    width: 800px;
+    margin-top: -30px;
+    padding:50px 58px;
+    text-align:center;
+    background-color:#000000;
 }
-
-#professional-challenges img {
-    margin: 32px 0;
-  }
 
 footer {
-    border-top: 1px solid  #2189c7;
-    padding:60px 0px;
+    border-top: solid  #2189c7;
+    margin-top: -10px;
+    padding:50px 580px;
     text-align:center;
-    background-image: linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
+    background: linear-gradient(to bottom, #030709, #030709 10%, #0a1b23 50%, #030709 95%);
 }
-
-footer .dio-logo {
-    width: 300px;
-}
-
-footer a {
-    color: #2189c7;
-    font-weight: bold;
-    text-decoration: none;
-}  
